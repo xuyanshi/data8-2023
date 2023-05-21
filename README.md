@@ -1,10 +1,6 @@
 # data8-2023
 Data 8: Foundations of Data Science, UC Berkeley, Spring 2023
 
-### Start Date: TODO
-
-### End Date: 
-
 ## Reference
 
 - [HomePage](https://data8.org/sp23/)
