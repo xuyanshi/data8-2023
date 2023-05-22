@@ -3,7 +3,7 @@ Data 8: Foundations of Data Science, UC Berkeley, Spring 2023
 
 ## Reference
 
-- [HomePage](https://data8.org/sp23/)
+- [HomePage](https://www.data8.org/sp23/)
 
 - [Official Materials](https://github.com/data-8/)
 
