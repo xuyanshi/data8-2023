@@ -1,4 +1,9 @@
 # data8-2023
+
+![GitHub last commit](https://img.shields.io/github/last-commit/xuyanshi/data8-2023?style=flat-square) 
+![GitHub repo size](https://img.shields.io/github/repo-size/xuyanshi/data8-2023?style=flat-square) 
+![GitHub license](https://img.shields.io/github/license/xuyanshi/data8-2023?style=flat-square)
+
 Data 8: Foundations of Data Science, UC Berkeley, Spring 2023
 
 ## Reference
